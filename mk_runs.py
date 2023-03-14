@@ -64,5 +64,5 @@ pars2["PG1211+143"] = ""
 pars2["PG_1448+273"] = ""
 
 if __name__ == "__main__":
-    runs.mk_runs(project, on, pars1, pars2, sys.argv[1:])
+    runs.mk_runs(project, on, pars1, pars2)
 
