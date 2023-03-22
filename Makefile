@@ -1,7 +1,7 @@
 #
 
 
-PID  = 2023-S1-US-18
+include PID
 
 help:
 	@echo PID=$(PID)
