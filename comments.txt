@@ -1,1 +1,5 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
+106395 inttime=0?   C3 missing
+106359 inttime=0?   C3 missing
+106352 inttime=0?   C3 missing
+106349 inttime=0?   C3 missing
