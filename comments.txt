@@ -1,1 +1,4 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
+106582_109271 Detection 
+106628_109266 Detection
+106061_106388 Detection
