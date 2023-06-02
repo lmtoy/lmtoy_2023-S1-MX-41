@@ -1,18 +1,13 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 
-106395 inttime=0?   C3 missing
-106359 inttime=0?   C3 missing
-106352 inttime=0?   C3 missing
-106349 inttime=0?   C3 missing
+106395 BAD inttime=0?   C3 missing
+106359 BAD inttime=0?   C3 missing
+106352 BAD inttime=0?   C3 missing
+106349 BAD inttime=0?   C3 missing
 
-106582_109271 Detection 
-106628_109266 Detection
-106061_106388 Detection
-
-# 106578_109277
-#109274
-#109275
-#109277
+106582_109271 Detection ~108.0 GHz
+106628_109266 Detection ~107.6 GHz
+106061_106388 Detection ~104 GHz
 
 106578 BAD
 106579 BAD
@@ -28,10 +23,10 @@
 106134 BAD
 106136 BAD
 106137 BAD
-106352 BAD
+# 106352 BAD
 106353 BAD
 
-106359 BAD
+# 106359 BAD
 
 105817 BAD
 105818 BAD
@@ -42,4 +37,4 @@
 106221 BAD
 106222 BAD
 106391 BAD
-106395 BAD
+# 106395 BAD
