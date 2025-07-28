@@ -9,6 +9,8 @@
 106628_109266 Detection ~107.6 GHz
 106061_106388 Detection ~104 GHz
 
+106343 no valid data
+
 106578 BAD
 106579 BAD
 106580 BAD
